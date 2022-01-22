@@ -1,0 +1,1176 @@
+﻿BOOK,CATEGORY
+Hacking with Python The Ultimate Beginner’s Guide,Programming
+machine learning for the small and the many,Artificial Intelligence
+"Applied Machine Learning, Feature encoding and assorted tricks",Artificial Intelligence
+Hands-On Machine Learning with Scikit-Learn and TensorFlow,Artificial Intelligence
+Hands-On Machine Learning with Scikit-Learn and TensorFlow,Artificial Intelligence
+Introduction to Machine Learning Using Python,Artificial Intelligence
+Scikit-learn is a package for performing machine learning in Python,Artificial Intelligence
+MACHINELEARNING ERA IN CYBERSECURITY,Artificial Intelligence
+Python Machine Learning Project,Artificial Intelligence
+Mastering Machine Learning with scikit-learn,Artificial Intelligence
+Machine learning in NLP Introduction to the scikit-learn library,Artificial Intelligence
+Machine Learning with Python/Scikit-Learn,Artificial Intelligence
+scikit-learn,Artificial Intelligence
+Text preprocessing with Python,Artificial Intelligence
+ Text Clustering and Classification,Artificial Intelligence
+Bag of Words Meets Bags of Popcorn which focuses on sentiment analysis,Artificial Intelligence
+Data Cleaning and Text Preprocessing,Artificial Intelligence
+Scikit-learn: Machine Learning Without Learning the Machinery,Artificial Intelligence
+Face Recognition with Python,Artificial Intelligence
+ Facial recognition using deep neural networks,Artificial Intelligence
+Mastering OpenCV 4 with Python,Artificial Intelligence
+FACE RECOGNITION SYSTEM,Artificial Intelligence
+A Literature Survey on Face Recognition Techniques,Deep learning
+MySQL and PHP,Deep learning
+"Learning PHP, MySQL, JavaScript,and CSS",Deep learning
+PHP 6 AND MYSQL 5 FOR DYNAMIC WEB SITES,Deep learning
+Advanced PHP Programming,Deep learning
+Getting Up and Running with PHP,Deep learning
+PHP is a scripting language primarily used to make interactive web pages,Deep learning
+Server running PHP,Deep learning
+What is PHP?,Deep learning
+XAMPP (the full Monty) or XAMPP,Deep learning
+Apache – a web server to send out the pages,Deep learning
+PHP – interpreter for the PHP language,Deep learning
+MySQL – database software,Deep learning
+Structure & Interpretation of Computer Programs,Deep learning
+Machine Learning for Hackers,Deep learning
+Python for Data Analysis,Deep learning
+"Signal and the Noise, The",Deep learning
+Statistical Decision Theory',Deep learning
+Data Mining Handbook,Deep learning
+"Nature of Statistical Learning Theory, Vapnik, Vladimir",Deep learning
+"Data Smart, Foreman, John",Deep learning
+"Image Processing with MATLAB, Eddins, Steve",Artificial Intelligence
+"Image Processing & Mathematical Morphology, Shih, Frank",Artificial Intelligence
+"Learning OpenCV,Bradsky, Gary",Artificial Intelligence
+"Data Scientists at Work,Sebastian Gutierrez",Deep learning
+Natural Language and the Computer Representation of Knowledge,Deep learning
+a chapter from Natural Language Processing with Python,Deep learning
+Analysis of the UN General Debate Corpus from a computational social science perspective,Deep learning
+Automating Open Science for Big Data,Deep learning
+Big data is not only about data: the two cultures of modelling,Deep learning
+Big Data Methods for Social Science and Policy,Deep learning
+Intelligible Machine Learning Models for Healthcare,Deep learning
+Intro to Computational Social Science MS&E 231,Deep learning
+Introduction to Computational Thinking and Data Science,Deep learning
+Introduction to Computational Tools for Social Science,Deep learning
+Introduction to Computational Tools for Social Science (PS239T) course,Deep learning
+Natural Language and the Computer Representation of Knowledge,Deep learning
+Natural Language Processing,Deep learning
+Scattertext-PyData - A guide to using the python package Scattertext,Deep learning
+Sentiment Analysis on Product Reviews,Deep learning
+Introduction to Cultural Analytics with Python,Deep learning
+Introduction to Data Science for Politics and IR,Deep learning
+Professional SQL Server 2000 Programming,Computer Science
+MySQL,Computer Science
+Fundamentals of Database Systems,Computer Science
+ColdFusion MX Web Application Construction Kit,Computer Science
+Data Mining: Practical Machine Learning Tools and Techniques with Java Implementations,Deep learning
+How To Do Everything with Your Tablet PC,Computer Science
+The Data Warehouse Toolkit: The Complete Guide to Dimensional Modeling,Deep learning
+SQL Server 2000 for Experienced DBA's,Computer Science
+OCP: Oracle9i Certification Kit,Computer Science
+Google Hacks,Computer Science
+Real World FPGA Design with Verilog,Computer Science
+Ldap System Administration,Computer Science
+The Photoshop Book for Digital Photographers,Computer Science
+Photoshop 7 Down & Dirty Tricks,Computer Science
+Mac OS X v. 10.2 Jaguar Killer Tips,Computer Science
+Persuasive Technology: Using Computers to Change What We Think and D,Computer Science
+The C++ programming language,Programming
+The C Programming Language ,Programming
+JavaScript: The Good Parts,Programming
+Artificial Intelligence,Deep learning
+Structure and Interpretation of Computer Programs,Programming
+The UNIX programming environment,Computer Science
+How to design programs,Programming
+Programming Ruby,Programming
+Learning Python,Programming
+UNIX Network Programming,Computer Science
+"Growing Object-Oriented Software, Guided by Tests",Programming
+Programming Perl,Programming
+Effective Java,Programming
+Agile software development,Programming
+Introduction To The Theory Of Computation,Programming
+The C++ programming language,Programming
+Object-oriented software construction,Programming
+Accelerated C++,Programming
+Php And Mysql Web Development,Programming
+Sams teach yourself MySQL in 24 hours,Programming
+Reviewing C++,Programming
+Assembly Language,Programming
+Essentials of programming languages,Programming
+Genetic Programming,Programming
+Expert C Programming,Programming
+Reviewing Java,Programming
+Django Web Development with Python,Programming
+Introductiontowebdevelopmentwith PythonandDjangoDocumentation,Programming
+Web Development with Django Cookbook,Programming
+"Welcome to Deep Learning for Natural Language Processing. Natural language processing is the
+area of study dedicated to the automatic manipulation of speech and text by software. It is
+an old field of study, originally dominated by rule-based methods designed by linguists, then
+statistical methods, and, more recently, deep learning methods that show great promise in the
+field. So much so that the heart of the Google Translate service uses a deep learning method, a
+topic that you will learn more about in this book.
+I designed this book to teach you step-by-step how to bring modern deep learning models to
+your own natural language processing projects.",deep learning
+"Natural Language Processing Natural Language Processing, or NLP for short, is broadly defined as the automatic manipulation of natural language, like speech and text, by software. The study of natural language processing has been around for more than 50 years and grew out of the field of linguistics with the rise of computers. In this chapter, you will discover what natural language processing is and why it is so important. After reading this chapter, you will know:  What natural language is and how it is different from other types of data.  What makes working with natural language so challenging.  Where the field of NLP came from and how it is defined by modern practitioners. Let’s get started. 1.1 Natural Language Natural language refers to the way we, humans, communicate with each other. Namely, speech and text. We are surrounded by text. Think about how much text you see each day:  Signs  Menus  Email  SMS  Web Pages  and so much more... The list is endless. Now think about speech. We may speak to each other, as a species, more than we write. It may even be easier to learn to speak than to write. Voice and text are how we communicate with each other. Given the importance of this type of data, we must have methods to understand and reason about natural language, just like we do for other types of data.",natural language processing
+" mapping features to numerical vectors
+I scikit-learn’s learning methods works with features as
+numbers, not strings
+I they can’t directly use the feature dicts we have stored in X
+I converting from string to numbers is the purpose of these lines:
+vec = DictVectorizer()
+Xe = vec.fit_transform(X)",machine learning
+"Reinforcement Learning  
+Learning to Optimize Rewards  
+Policy Search  
+Introduction to OpenAI Gym  
+Neural Network Policies  
+Evaluating Actions: The Credit Assignment Problem  
+Policy Gradients  
+Markov Decision Processes  
+Temporal Difference Learning and Q-Learning  
+Exploration Policies  
+Approximate Q-Learning  
+Learning to Play Ms. Pac-Man Using Deep Q-Learning ",machine learning
+" Recurrent Neural Networks
+Recurrent Neurons
+Memory Cells 
+Input and Output Sequences 
+Basic RNNs in TensorFlow 
+Static Unrolling Through Time  
+Dynamic Unrolling Through Time  
+Handling Variable Length Input Sequences  
+Handling Variable-Length Output Sequences  
+Training RNNs  
+Training a Sequence Classifier 
+Training to Predict Time Series 
+Creative RNN 
+Deep RNNs ",deep learning
+" The Machine Learning Landscape
+When most people hear “Machine Learning,” they picture a robot: a dependable butler or a deadly
+Terminator depending on who you ask. But Machine Learning is not just a futuristic fantasy, it’s already
+here. In fact, it has been around for decades in some specialized applications, such as Optical Character
+Recognition (OCR). But the first MLapplication that really became mainstream, improving the lives of
+hundreds of millions of people, took over the world back in the 1990s: it was the spam filter. Not exactly
+a self-aware Skynet, but it does technically qualify as Machine Learning (it has actually learned so well
+that you seldom need to flag an email as spam anymore). It was followed by hundreds of MLapplications
+that now quietly power hundreds of products and features that you use regularly, from better
+recommendations to voice search.
+Where does Machine Learning start and where does it end? What exactly does it mean for a machine to
+learn something? If I download a copy of Wikipedia, has my computer really “learned” something? Is it
+suddenly smarter? In this chapter we will start by clarifying what Machine Learning is and why you may
+want to use it.
+Then, before we set out to explore the Machine Learning continent, we will take a look at the map and
+learn about the main regions and the most notable landmarks: supervised versus unsupervised learning,
+online versus batch learning, instance-based versus model-based learning. Then we will look at the
+workflow of a typical MLproject, discuss the main challenges you may face, and cover how to evaluate
+and fine-tune a Machine Learning system.
+This chapter introduces a lot of fundamental concepts (and jargon) that every data scientist should know
+by heart. It will be a high-level overview (the only chapter without much code), all rather simple, but you
+should make sure everything is crystal-clear to you before continuing to the rest of the book. So grab a
+coffee and let’s get started!",machine learning
+"Machine Learning is the science (and art) of programming computers so they can learn from data.
+Here is a slightly more general definition:
+[Machine Learning is the] field of study that gives computers the ability to learn without being
+explicitly programmed.
+Arthur Samuel, 1959
+And a more engineering-oriented one:
+A computer program is said to learn from experience E with respect to some task T and some
+performance measure P, if its performance on T, as measured by P, improves with experience E.
+Tom Mitchell, 1997
+For example, your spam filter is a Machine Learning program that can learn to flag spam given examples
+of spam emails (e.g., flagged by users) and examples of regular (nonspam, also called “ham”) emails. The
+examples that the system uses to learn are called the training set. Each training example is called a
+training instance (or sample). In this case, the task T is to flag spam for new emails, the experience E is
+the training data, and the performance measure P needs to be defined; for example, you can use the ratio
+of correctly classified emails. This particular performance measure is called accuracy and it is often
+used in classification tasks.
+If you just download a copy of Wikipedia, your computer has a lot more data, but it is not suddenly better
+at any task. Thus, it is not Machine Learning",machine learning
+"Types of Machine Learning Systems
+There are so many different types of Machine Learning systems that it is useful to classify them in broad
+categories based on:
+Whether or not they are trained with human supervision (supervised, unsupervised, semisupervised,
+and Reinforcement Learning)
+Whether or not they can learn incrementally on the fly (online versus batch learning)
+Whether they work by simply comparing new data points to known data points, or instead detect
+patterns in the training data and build a predictive model, much like scientists do (instance-based
+versus model-based learning)
+These criteria are not exclusive; you can combine them in any way you like. For example, a state-of-theart spam filter may learn on the fly using a deep neural network model trained using examples of spam and
+ham; this makes it an online, model-based, supervised learning system.
+Let’s look at each of these criteria a bit more closely.",machine learning
+"Machine learning explores 
+the study and construction of 
+algorithms that can learn 
+from and make predictions 
+on data. Such algorithms 
+operate by building a model 
+from example inputs in order 
+to make data-driven 
+predictions or decisions…. 
+Machine learning is closely 
+related to computational 
+statistics; a discipline that 
+aims at the design of 
+algorithms for implementing 
+statistical methods on 
+computers ",machine learning
+"Mastering OpenCV 4 with Python will give you the knowledge to build projects
+involving Open Source Computer Vision Library (OpenCV) and Python.
+These two technologies (the first one is a programming language, while the
+second one is a computer vision and machine learning library) will be
+introduced. Also, you will learn why the combination of OpenCV and Python
+has the potential to build every kind of computer application. Finally, an
+introduction about the main concepts related to the content of this book will be
+provided.
+In this chapter, you will be given step-by-step instructions to install everything
+you need to start programming with Python and OpenCV. This first chapter is
+quite long, but do not worry, because it is divided into easily assimilated
+sections, starting with general terminology and concepts, which assumes that the
+reader is new to this information. At the end of this chapter, you will be able to
+build your first project involving Python and OpenCV.
+The following topics will be covered in this chapter:
+A theoretical introduction to the OpenCV library
+Installing Python OpenCV and other packages
+Running samples, documentation, help, and updates
+Python and OpenCV project structure
+First Python and OpenCV project",Python OpenCV
+"Face detection
+Face detection, which can be defined as the task of determining the location and
+size of faces in digital images, is usually the first key step when building face
+processing applications (for example, facial expression recognition, drowsiness
+detection, gender classification, face recognition, head-pose estimation, or
+human-computer interaction). This is because the aforementioned applications
+requires as an input the location and size of the detected faces. Therefore,
+automatic face detection plays a critical role, and is one of the most studied
+topics in the artificial intelligence community.
+Face detection seems like an effortless task for a human, but it is a very
+challenging task for computers because many problems/challenges are usually
+involved (for example, appearance variations, scale, rotation, facial expressions,
+occlusion, or lighting condition). Face detection has made impressive progress
+after the work proposed by Viola and Jones (https://docs.opencv.org/4.0.1/d7/d8b/tut
+orial_py_face_detection.html). In this section, we will see some of the most popular
+face detection techniques that the OpenCV library and the dlib and face_processing
+packages provide, including the aforementioned Viola and Jones algorithm, and
+other machine learning and deep learning approaches.",Python OpenCV
+"Face detection with OpenCV
+OpenCV provides two approaches for face detection:
+Haar cascade based face detectors
+Deep learning-based face detectors
+The framework proposed by Viola and Jones (see Rapid Object Detection Using
+a Boosted Cascade of Simple Features (2001)) is an effective object detection
+method. This framework is very popular because OpenCV provides face
+detection algorithms based on this framework. Additionally, this framework can
+also be used for detecting other objects rather than faces (for example, full body
+detector, plate number detector, upper body detector, or cat face detector). In this
+section, we will see how to detect faces using this framework.
+The face_detection_opencv_haar.py script performs face detection using haar featurebased cascade classifiers. In this sense, OpenCV provides four cascade
+classifiers to use for (frontal) face detection:",Python OpenCV
+"Face detection with dlib
+You can use dlib.get_frontal_face_detector() to create a frontal face detector, which
+is based on Histogram of Oriented Gradients (HOG) features and a linear
+classifier in a sliding window detection approach. In particular, the HOG trainer
+uses a structural SVM-based training algorithm that enables the trainer to train in
+all the sub-windows in every training image",Python OpenCV
+"Detecting facial landmarks
+In computer vision, the localization of the fiducial facial key points (also called
+facial landmarks) is usually a key step in a lot of facial analysis methods and
+algorithms. Facial expression recognition, head pose estimation algorithms, and
+drowsiness detection systems are only a few examples, relying heavily on the
+facial shape information provided by the detection of facial landmarks.
+A facial landmark detection algorithm aims to automatically identify the
+locations of the facial landmark points in images or videos. More specifically,
+those key points are either the dominant points that describe the unique location
+of a facial component (for example, corners of mouth or eyes) or an interpolated
+point that connects those dominant points around the facial components and
+facial contour. Formally, given a facial image denoted as I, a landmark detection
+algorithm detects the locations of D landmarks x = {x1, y1, x2, y2, ..., xD, yD},
+where x and y represent the image coordinates of the facial landmarks. In this
+section, we are going to see how to detect facial landmarks using both OpenCV
+and dlib.",Python OpenCV
+"Face tracking
+Object tracking tries to estimate the trajectory of the target throughout the video
+sequence where only the initial location of a target is known. This task is really
+challenging on account of several factors, such as appearance
+variations, occlusions, fast motion, motion blur, and scale variations.
+In this sense, discriminative correlation filter (DCF)-based visual trackers
+provide state-of-the-art performance. Additionally, these trackers are
+computationally efficient, which is critical in real-time applications. Indeed, the
+state-of-the-art performance of DCF-based trackers can be seen in the results of
+the visual object tracking (VOT) 2014 Challenge. In the VOT2014 Challenge,
+the top three trackers are based on correlation filters.",Python OpenCV
+"bject tracking with the dlib DCFbased tracker
+The face_tracking_correlation_filters.py script can be modified to track an arbitrary
+object. In this case, we will use the mouse to select the object to track. If we
+press 1, the algorithm will start tracking the object inside the pre-defined
+bounding box. Additionally, if we press 2, the pre-defined bounding box will be
+emptied and the tracking algorithm will be stopped, allowing the user to select
+another bounding box.
+To clarify how the face_tracking_correlation_filters.py script works, we have
+included the next two screenshots. In the first one, we can see that we need to
+select a bounding box to start the tracking:",Python OpenCV
+"Face recognition
+With the development of computer vision, machine learning, and deep learning,
+face recognition has become a hot topic. Face recognition can be applied to a
+wide range of uses, including crime prevention, surveillance, forensic
+applications, biometrics, and, more recently, in social networks. Automatic face
+recognition has various challenges, such as occlusions, appearance variations,
+expression, aging, and scale variations. Following its success with object
+recognition, CNNs have been widely used for face recognition.
+In this chapter, we will see the functionality that OpenCV offers in connection
+with face recognition, and will also explore some deep learning approaches,
+which can be easily integrated into your computer vision projects to perform
+state-of-the-art face recognition results.",Python OpenCV
+"Face recognition with dlib
+Dlib offers a high-quality face recognition algorithm based on deep learning.
+Dlib implements a face recognition algorithm that offers state-of-the-art
+accuracy. More specifically, the model has an accuracy of 99.38% on the labeled
+faces in the wild database.
+The implementation of this algorithm is based on the ResNet-34 network
+proposed in the paper Deep Residual Learning for Image Recognition (2016),
+which was trained using three million faces. T",Python OpenCV
+" FACE RECOGNITION SYSTEM 
+DESIGN 
+Once a Pcore containing the description of the 
+hardware accelerator for facial recognition has been 
+generated with Vivado-HLS, the next step is the 
+design of a hardware platform incorporating it as 
+peripheral and the development of a software 
+application which makes use of it. ",Python OpenCV
+" FACE RECOGNITION SYSTEM 
+EVALUATION 
+To validate the developed system and to evaluate its 
+performance, different tests have been carried out. 
+Specifically, two types of tests have been made, one 
+with an all-software recognition system, which does 
+not include hardware accelerator, and the other with 
+the system that includes the hardware accelerator. 
+The three implementations of the hardware 
+accelerator described in Section 2 have been tested to 
+experimentally evaluate how optimizations affect the 
+final result. 
+We have used two image databases containing 
+images of different sizes in order to check the 
+acceleration in relation to the size of the matrices to 
+be multiplied. One database is the AT&T face 
+databases [Att02] (resolution of 92×112 pixels). In 
+AT&T database there are 10 grayscale images for 
+each of the 40 individuals who compose it. ",Python OpenCV
+"Detection of patterns in images using classifiers is one of the most promising topics of research
+in the field of computer vision. A large number of practical applications for face detection exist 
+and contemporary work even suggests that any specialized detectors can be approximated by 
+using fast detection classifiers. In this project, I have developed an algorithm which will detect 
+face from the input image with less false detection rate using combined effects of computer 
+vision concepts. This algorithm utilizes the concept of recognizing skin color, detecting edges
+and extracting different features from face. The result is supported by the statistics obtained 
+from calculating the parameters defining the parts of the face. The project also implements the 
+highly powerful concept of Support Vector Machine that is used for the classification of images 
+into face and non-face class. This classification is based on the training data set and indicators 
+of luminance value, chrominance value, saturation value, elliptical value and nose, eye & mouth 
+map values",Python OpenCV
+"Edge detection
+In the edge detection phase, edges of the object from the images are detected using a 
+particular threshold value. Using the Gaussian filter the noise from the images is 
+filtered out. The next step would involve calculating the intensity gradient of the 
+image. This would help eliminate the varying lighting condition. Then the 
+morphological operators like elation and dilation are applied which reduces the noise 
+from the background image. The non-suppression is applied which helps in removing 
+the points that are not part of the edge.
+The most important step of this phase is to detect the edge of the objects. So 
+depending upon the threshold pixel the edges are accepted or rejected. The value of 
+the threshold is selected based on the average of the tested training data set of 
+image.",Python OpenCV
+"Django bills itself as “the Web framework for perfectionists with deadlines.” It
+originated in the early 2000s, created by Web developers at the online presence of the Lawrence Journal-World newspaper, which introduced it to the
+world in 2005 as a way of “developing code with journalism deadlines.” We’ll
+put ourselves on a deadline and see how fast we can produce a very simple
+blog by using Django, and later do the same with Google App Engine.
+(You’ll have to work on your perfectionist side on your own.) Although
+we’re going to blast through this example, we’ll still give you enough in the
+way of explanation so that you know what’s going on. However, if you
+would like to explore a full treatment of this exact example, you’ll find it in
+Chapter 2 of Python Web Development with Django (Addison-Wesley, 2009),
+written by my esteemed colleagues, Jeff Forcier (lead developer of Fabric)
+and Paul Bissex (creator of dpaste), plus yours truly.",Web development
+"Installing Django
+There are several ways of installing Django on your system, which are
+listed here in increasing order of effort and/or complexity:
+• Python package manager
+• Operating system package manager
+• Standard release tarball
+• Source code repository
+The simplest download and installation process takes advantage of
+Python package management tools like easy_install from Setuptools
+(http://packages.python.org/distribute/easy_install.html) or pip (http://
+pip.openplans.org), both of which are available for all platforms. For Windows users with Setuptools, the easy_install.exe file should be installed
+in the Scripts folder in which your Python distribution is located. You
+only need to issue a single command; this is the command you would use
+from a DOS Command window:",Web development
+" Creating a Project in Django
+Django comes with a utility called django-admin.py that can streamline
+tasks such as the creation of the aforementioned project directories. On
+POSIX platforms, it will usually be installed into directories such as /usr/
+local/bin, /usr/bin, etc.; if you’re on a Windows-based computer, it goes
+into the Scripts folder, which is directly in your Python installation folder,
+e.g., C:\Python27\Scripts. For either POSIX computers or Windows computers, you should make sure that django-admin.py is in your PATH environment variable so that it can be executed from the command-line (unless
+you like calling interpreters by using full pathnames).
+For Windows computers, you will likely have to manually add
+c:\python27 and c:\python27\scripts to your system PATH variable for
+everything to work well (or whatever directory you installed Python in).
+You do this by opening the Control Panel and then clicking System, or you
+can right-click My Computer, and then choose Properties. From here,
+select the Advanced tab, and then click the Environment Variables button.
+You can choose to edit the PATH entry either for a single user (the top
+listbox) or for all users (the bottom listbox), and then add ;c:\python27;c:\
+python27\scripts after any text in the Variable value textbox. Some of
+what you see appears in Figure 11-1.
+Once your PATH is set (on either type of platform), you should be able
+to run python and get an interactive interpreter and Django’s djangoadmin.py command to see its usage. You can test this by opening up a Unix
+shell or DOS Command window and issuing those command names.
+Once you’ve confirmed that everything is working, we can proceed.
+The next step is to go to a directory or folder in which you want to place
+your code. To create the project in the current working directory, issue the
+following command (we’ll use a generic project name such as mysite, but
+you can call it anything you wish):",Web development
+"Using MySQL
+With your (empty) database in place, all that remains is to instruct Django
+on how to use it. This is where your project’s settings.py file comes in
+(again). There are six potentially relevant settings here (though you might
+need only two): ENGINE, NAME, HOST, PORT, USER, and PASSWORD. Their names
+render their respective purposes pretty obvious. Just plug in the correct
+values corresponding to the database server you’ll be using with Django.",Web development
+"Using SQLite
+SQLite is a popular choice for testing. It’s even a good candidate for
+deployment in scenarios for which there isn’t a great deal of simultaneous
+writing going on. No host, port, user, or password information is needed
+because SQLite uses the local file system for storage and the native file
+system permissions for access control—you can also choose a pure in-memory database. This is why our DATABASES configuration in settings.py
+shown in the following code only has ENGINE and NAME when directing
+Django to use your SQLite database.",Web development
+" Creating the Tables
+Now we need to instruct Django to use the connection information you’ve
+given it to connect to the database and set up the tables that your application needs. You’ll use manage.py and its syncdb command, as demonstrated in the following sample execution",Web development
+"The Django Administration App
+The automatic back-end administration application, or admin for short, has
+been described as Django’s crown jewel. For anyone who has tired of creating simple CRUD interfaces for Web applications, it’s a godsend. Admin
+is an app that every Web site needs. Why? Well, you might want to confirm your app’s ability to insert a new record as well as update or delete it.
+You understand that, but if your app hasn’t been completed yet, that
+makes this a bit more difficult. The admin app solves this problem for you
+by giving developers the ability to validate their data manipulation code
+before the full UI has been completed",Web development
+"in this chapter, we will cover the following topics:
+Working with a virtual environment
+Creating a project file structure
+Handling project dependencies with pip
+Including external dependencies in your project
+Defining relative paths in the settings
+Setting up STATIC_URL dynamically for Subversion users
+Setting up STATIC_URL dynamically for Git users
+Creating and including local settings
+Setting UTF-8 as the default encoding for MySQL configuration
+Setting the Subversion ignore property
+Creating a Git ignore file
+Deleting Python-compiled files
+Importing order in Python files
+Defining overwritable app settings",Web development
+"In this chapter, we will cover the following topics:
+Using model mixins
+Creating a model mixin with URL-related methods
+Creating a model mixin to handle creation and modification dates
+Creating a model mixin to take care of meta tags
+Creating a model mixin to handle generic relations
+Handling multilingual fields
+Using South migrations
+Changing a foreign key to the many-to-many field with South",Web development
+"Forms and Views
+Passing HttpRequest to the form
+Utilizing the save method of tfhe form
+Uploading images
+Creating a form layout with django-crispy-forms
+Filtering object lists
+Managing paginated lists
+Composing class-based views
+Generating PDF documents",Web development
+"Creating your first project
+Now with the software we need in place, the time has come for the fun part–creating 
+our first Django project!
+If you recall from the Django installation section, we used a command called 
+django-admin.py to test our installation. This utility is the heart of Django's project 
+management facilities, as it enables the user to do a range of project management 
+tasks, including these:
+• Creating a new project
+• Creating and managing the project's database
+• Validating the current project and testing for errors
+• Starting the development web server
+We will see how to use some of these tasks in the rest of this chapter",Web development
+"Flask is a Python web application micro-framework built on top of the Werkzeug WSGI library.
+Flask may be ""micro"", but it’s ready for production use on a variety of needs.
+The ""micro"" in micro-framework means Flask aims to keep the core simple but extensible. Flask
+won’t make many decisions for you, such as what database to use, and the decisions that it does
+make are easy to change. Everything is up to you, so that Flask can be everything you need and
+nothing you don't.
+The community supports a rich ecosystem of extensions to make your application more powerful
+and even easier to develop. As your project grows you are free to make the design decisions
+appropriate for your requirements",Web development
+"What is Flask?
+Flask is a web application framework written in Python. It is developed by Armin Ronacher, 
+who leads an international group of Python enthusiasts named Pocco. Flask is based on the 
+Werkzeug WSGI toolkit and Jinja2 template engine. Both are Pocco projects.
+WSGI
+Web Server Gateway Interface (WSGI) has been adopted as a standard for Python web 
+application development. WSGI is a specification for a universal interface between the web 
+server and the web applications. 
+Werkzeug
+It is a WSGI toolkit, which implements requests, response objects, and other utility functions. 
+This enables building a web framework on top of it. The Flask framework uses Werkzeug as 
+one of its bases.
+Jinga2
+Jinga2 is a popular templating engine for Python. A web templating system combines a 
+template with a certain data source to render dynamic web pages.
+Flask is often referred to as a micro framework. It aims to keep the core of an application 
+simple yet extensible. Flask does not have built-in abstraction layer for database handling, 
+nor does it have form a validation support. Instead, Flask supports the extensions to add such 
+functionality to the application. Some of the popular Flask extensions are discussed later in 
+the tutorial",Web development
+"Creating Your 
+First Flask Application
+Flask is fun. This bold declaration is one of the first things you see when you view 
+the official Flask documentation and, over the course of this book, you will come to 
+understand why so many Python developers agree.
+In this chapter we shall:
+• Briefly discuss the features of the Flask framework
+• Set up a development environment and install Flask
+• Implement a minimal Flask app and analyze how it works
+• Experiment with commonly used APIs and the interactive debugger
+• Start working on the blog project that will be progressively enhanced over 
+the course of the book
+What is Flask?
+Flask is a lightweight Web framework written in Python. Flask started out as 
+an April fool's joke that became a highly popular underdog in the Python web 
+framework world. It is now one of the most widely used Python web frameworks 
+for start-ups, and is becoming commonly accepted as the perfect tool for quick and 
+simple solutions in most businesses. At its core, it provides a set of powerful libraries 
+for handling the most common web development tasks, such as:
+• URL routing that makes it easy to map URLs to your code
+• Template rendering with Jinja2, one of the most powerful Python 
+template engines",Web development
+"Python review
+Introduction
+Python is the programming language which can be used for various purposes e.g. web design, mathematical
+modeling, creating documents and game designs etc. In this chapter, we will review some of the basic features of
+Python. Then, from next chapter we will write some good coding styles with advance features of Python.",Programming
+" Pythonic Thinking
+The idioms of a programming language are defined by its users. Over the years, the
+Python community has come to use the adjective Pythonic to describe code that follows a
+particular style. The Pythonic style isn’t regimented or enforced by the compiler. It has
+emerged over time through experience using the language and working with others.
+Python programmers prefer to be explicit, to choose simple over complex, and to
+maximize readability (type import this).
+Programmers familiar with other languages may try to write Python as if it’s C++, Java, or
+whatever they know best. New programmers may still be getting comfortable with the vast
+range of concepts expressible in Python. It’s important for everyone to know the best—the
+Pythonic—way to do the most common things in Python. These patterns will affect every
+program you write.",Programming
+"The Python Environment
+Starting Python  
+Using the interpreter  
+Running a Python script  
+Python scripts on Unix/Windows
+Editors and IDEs  ",Programming
+"The beginning of the modern Python programming started in December of
+1989. The creator of this program was Guido van Rossum who began
+programming as more of a hobby. At the time, van Rossum was working on a
+project with the Dutch CWI research institute, that was later terminated. Van
+Rossum was able to use some of the basics of this new language, known as the
+ABC language, in order to work on Python.
+The main strength of this language is that it is really easy to extend upon to
+make more complex, or keep simple, and it was able to support multiple
+platforms. Both of these were important during the days when personal
+computers were becoming popular. And since Python was designed to
+communicate with different file formats and libraries, it became a hit as well.
+Python has grown quite a bit since its inception and more tools have been
+added to make the programing more functioning.",Programming
+"Python is a great program to use whether you are a beginner in the
+programming world or you have been into it for some time. Many of those who
+are just looking at getting started with programming will jump right in with
+Python and make it their own. It is simple to understand and can be used by
+anyone who is ready to get started with coding. This chapter is going to take
+some time to explain some of the positives, as well as some of the drawbacks,
+of using Python for your programming language",Programming
+"he Pythonic Productivity Techniques section is another great resource. It covers aspects beyond the Python programming language,
+and also includes tips on how to debug your programs, how to manage
+the dependencies, and gives you a peek inside Python bytecode.
+It truly is an honor and my pleasure to introduce this book, Python
+Tricks, by my friend, Dan Bader.
+By contributing to Python as a CPython core developer, I get connected to many members of the community. In my journey, I found
+mentors, allies, and made many new friends. They remind me that
+Python is not just about the code, Python is a community.
+Mastering Python programming isn’t just about grasping the theoretical aspects of the language. It’s just as much about understanding and
+adopting the conventions and best practices used by its community",Programming
+" What’s a Python Trick?
+Python Trick: A short Python code snippet meant as a
+teaching tool. A Python Trick either teaches an aspect of
+Python with a simple illustration, or it serves as a motivating example, enabling you to dig deeper and develop
+an intuitive understanding.
+Python Tricks started out as a short series of code screenshots that I
+shared on Twitter for a week. To my surprise, they got rave responses
+and were shared and retweeted for days on end.
+More and more developers started asking me for a way to “get the
+whole series.” Actually, I only had a few of these tricks lined up, spanning a variety of Python-related topics. There wasn’t a master plan
+behind them. They were just a fun little Twitter experiment.
+But from these inquiries I got the sense that my short-and-sweet code
+examples would be worth exploring as a teaching tool. Eventually I set
+out to create a few more Python Tricks and shared them in an email
+series. Within a few days, several hundred Python developers had
+signed up and I was just blown away by that response",Programming
+"What Is JavaScript?
+After completing this chapter, you will be able to
+Understand JavaScript’s role in a webpage
+Create a simple webpage
+Create a JavaScript program
+Welcome to the world of JavaScript programming. This book provides an introduction to Java Script programming both for the web and for Microsoft Windows 8. Like other books on JavaScript 
+programming, this book shows the basics of how to create a program in JavaScript. However, unlike 
+other introductory books on JavaScript, this book shows not only how something works but also why 
+it works. If you’re looking merely to copy and paste JavaScript code into a webpage there are plenty 
+of tutorials on the web to help solve those specific problems.
+Beyond the basics of how and why things work as they do with JavaScript, the book also shows 
+best practices for JavaScript programming and some of the real-world scenarios you’ll encounter as a 
+JavaScript programmer. 
+Programming for the web is different than programming in other languages or for other platforms. The JavaScript programs you write will run on the visitor’s computer. This means that when 
+programming for the web, you have absolutely no control over the environment within which your 
+program will run. 
+While JavaScript has evolved over the years, not everyone’s computer has evolved along with 
+it. The practical implication is that you need to account for the different computers and different 
+situations on which your program might run. Your JavaScript program might find itself running on a 
+computer from 1996 with Internet Explorer 5.5 through a dial-up modem just as easily as a shiny new 
+computer running Internet Explorer 10 or the latest version of Firefox. Ultimately, this comes down to 
+you, the JavaScript programmer, testing your programs in a bunch of different web browsers.
+With that short introduction, it’s time to begin looking at JavaScript. The chapter begins with code. 
+I’m doing this not to scare you away but to blatantly pander to the side of your brain that learns by 
+seeing an example. After this short interlude, the chapter examines where JavaScript fits within the 
+landscape of programming for the web and beyond. Then you’ll write your first JavaScript program.",Programming
+"What is JavaScript?
+Javascript is a dynamic computer programming language. It is lightweight and most 
+commonly used as a part of web pages, whose implementations allow client-side 
+script to interact with the user and make dynamic pages. It is an interpreted 
+programming language with object-oriented capabilities.
+JavaScript was first known as LiveScript, but Netscape changed its name to 
+JavaScript, possibly because of the excitement being generated by Java. JavaScript 
+made its first appearance in Netscape 2.0 in 1995 with the name LiveScript. The 
+general-purpose core of the language has been embedded in Netscape, Internet 
+Explorer, and other web browsers.
+The ECMA-262 Specification defined a standard version of the core JavaScript 
+language.
+JavaScript is a lightweight, interpreted programming language.
+Designed for creating network-centric applications.
+Complementary to and integrated with Java.
+Complementary to and integrated with HTML.
+Open and cross-platform.
+Client-Side JavaScript
+Client-side JavaScript is the most common form of the language. The script should 
+be included in or referenced by an HTML document for the code to be interpreted by 
+the browser.
+It means that a web page need not be a static HTML, but can include programs that 
+interact with the user, control the browser, and dynamically create HTML content.
+The JavaScript client-side mechanism provides many advantages over traditional CGI 
+server-side scripts. For example, you might use JavaScript to check if the user has 
+entered a valid e-mail address in a form field",Programming
+"Advantages of JavaScript
+The merits of using JavaScript are:
+ Less server interaction: You can validate user input before sending the page 
+off to the server. This saves server traffic, which means less load on your 
+server.
+ Immediate feedback to the visitors: They don't have to wait for a page 
+reload to see if they have forgotten to enter something.
+ Increased interactivity: You can create interfaces that react when the user 
+hovers over them with a mouse or activates them via the keyboard.
+ Richer interfaces: You can use JavaScript to include such items as drag-and drop components and sliders to give a Rich Interface to your site visitors.",Programming
+"WHAT JQUERY CAN DO FOR YOU
+As presented in the last section, jQuery makes many tasks easier. Its simplistic, chainable, and comprehensive API has the capability to completely change the way you write JavaScript. With the goals 
+of doing more with less code, jQuery really shines in the following areas:
+➤ jQuery makes iterating and traversing the DOM much easier via its various built-in methods.
+➤ jQuery makes selecting items from the DOM easier via its sophisticated, built-in, and ubiquitous capability to use selectors, just like you would use in CSS.
+➤ jQuery makes it easy to add your own custom methods via its simple-to-understand plug-in 
+architecture. 
+➤ jQuery helps reduce redundancy in navigation and UI functionality, like tabs, CSS, and 
+markup-based pop-up dialogs, animations, and transitions, and lots of other things.
+Is jQuery the only JavaScript framework? No, certainly not. You can pick from several JavaScript 
+frameworks: Yahoo UI, Prototype, SproutCore, Dojo, and so on. I like jQuery because I enjoy its 
+simplicity and lack of verbosity. However, among the other frameworks, you’ll fi nd that there is a 
+lot of similarity, and each provides its own advantages in terms of unifying Event APIs, providing 
+sophisticated selector and traversal implementations, and providing simple interfaces for redundant 
+JavaScript-driven UI tasks. Across the entire web, including websites that don’t use any JavaScript 
+frameworks, jQuery can be found on as many as half of all websites. So, jQuery defi nitely has the 
+benefi t of a ubiquitous, de facto standard. Based on its popularity, you’re extremely likely to run into 
+other developers who have experience with and know how to use jQuery",Web development
+"Since you’ve picked up a cookbook about jQuery, the authors of this book for the most
+part are going to assume that you have a loose idea about what exactly jQuery is and
+what it does. Frankly, cookbooks in general are typically written for an audience who
+seeks to enhance a foundation of knowledge that has already been established. Thus,
+the recipe-solution-discussion format is used to quickly get you solutions to common
+problems. However, if you are a jQuery newbie, don’t throw this book against the wall
+and curse us just yet. We’ve dedicated this chapter to you.
+If you are in need of a review or are jumping into this cookbook with little or no working
+knowledge of jQuery, this first chapter alone (the other chapters assume you know the
+basics) will aid you in learning the jQuery essentials. Now, realistically, if you have
+absolutely zero knowledge of JavaScript and the DOM, you might want to take a step
+back and ask yourself whether approaching jQuery without a basic understanding of
+the JavaScript core language and its relationship with the DOM is plausible. It would
+be my recommendation to study up on the DOM and JavaScript core before approaching jQuery.",Web development
+"Today's World Wide Web is a dynamic environment, and its users set a high bar for 
+both style and function of sites. To build interesting, interactive sites, developers 
+are turning to JavaScript libraries such as jQuery to automate common tasks and 
+simplify complicated ones. One reason the jQuery library is a popular choice is its 
+ability to assist in a wide range of tasks.
+Because jQuery does perform so many different functions, it can seem challenging 
+to know where to begin. Yet, there is a coherence and symmetry to the design of 
+the library; most of its concepts are borrowed from the structure of HTML and 
+Cascading Style Sheets (CSS). Because many web developers have more experience 
+with these technologies than with JavaScript, the library's design lends itself to a 
+quick start for designers with little programming experience. In fact, in this opening 
+chapter we'll write a functioning jQuery program in just three lines of code. On 
+the other hand, experienced programmers will also be aided by this conceptual 
+consistency, as we'll see in the later, more advanced chapters",Web development
+"You probably spend more time in front of a computer than with your signifi cant other. Hence, 
+having a nice comfortable seat, a fast computer, and software that accelerates development is 
+essential. 
+Starting with the basics, we’ll review requirements, different ways to obtain jQuery, and how 
+to run it on both client and server, and set up some conventions for the rest of the book, using 
+Google’s JavaScript standards.
+In this chapter you set up your work environment for developing and debugging jQuery and 
+JavaScript code. A major portion of development time goes into debugging, so a good debugger 
+isn’t really an option. After reviewing Firebug, Chrome, and IE debuggers a portion of this chapter 
+covers debugging JSON, tools for inspecting HTTP headers, and the JSLint code quality tool.
+You learn to package your .js fi les for production use, explore tools, and establish some 
+coding conventions",Web development
+"Most of the services we enjoy on the Web are provided by web database applications. Web-based email, online shopping, forums and bulletin boards, corporate web
+sites, and sports and news portals are all database-driven. To build a modern web
+site, you need to develop a database application.
+This book presents a highly popular, easy, low-cost way to bring together the Web
+and databases to build applications. The most popular database management system used in these solutions is MySQL, a very fast and easy-to-use system distributed
+under an Open Source license by its manufacturer, MySQL AB. We discuss MySQL
+in detail in this book.
+With a web server such as Apache (we assume Apache in this book, although the
+software discussed here works with other web servers as well) and MySQL, you have
+most of what you need to develop a web database application. The key glue you
+need is a way for the web server to talk to the database; in other words, a way to
+incorporate database operations into web pages. The most popular glue that accomplishes this task is PHP.
+PHP is an open source project of the Apache Software Foundation and it’s the most
+popular Apache web server add-on module, with around 53% of the Apache HTTP
+servers having PHP capabilities.* PHP is particularly suited to web database applications because of its integration tools for the Web and database environments. In particular, the flexibility of embedding scripts in HTML pages permits easy integration
+of HTML presentation and code. The database tier integration support is also excellent, with more than 15libraries available to interact with almost all popular database servers. In this book, we present a comprehensive view of PHP along with a
+number of powerful extensions provided by a repository known as PEAR",Web development
+"PHP began life as a way to manage a small personal website and was imagined and realized
+by just one man, Ramsus Lerdorf. Originally dubbed Personal Home Page Tools, PHP quickly
+evolved over the years from the basic scripting engine for a personal website into a highly
+competitive, extremely robust code engine that is deployed on millions of websites across 
+the globe. PHP’s fast, effective engine; its widespread, open-source developer base; and its
+platform flexibility have all come together to create one of the world’s most effective online
+scripting languages.
+Throughout the years PHP has continued to improve on its foundations, providing
+increased functionality and scalability. Because of PHP’s standard of listening to the community, fresh functionality is consistently added to every new release, allowing for more versatile
+code and upgrades to its already substantial library of built-in methods. For years, people
+have been using the PHP 4 series of code to create robust and powerful applications.
+There is always room for improvement, however. Although PHP 4 is considered to be an
+object-oriented programming (OOP) language, the class functionality found within it was not
+entirely as flexible as some developers wanted it to be. Older OOP languages that have had
+more time to grow have some strong functionality that PHP simply was not able to roll out in
+its PHP 4 releases.
+But that was then, and this is now. A very exciting occasion occurred for PHP developers
+everywhere on July 13, 2004: PHP released its long-anticipated version 5. Sporting a new
+object model powered by the already superb Zend II engine, PHP was ready to bring OOP 
+to a new level with this release.
+On top of new, more powerful class structures and functionality, PHP 5 has introduced
+many exciting features, some of which the community has been clamoring about for ages. 
+Say “hello (world)” to proper exception handling; new, simple-to-implement XML support;
+more verbose Simple Object Access Protocol (SOAP) functionality for web services; and much,
+much more.
+This book will provide you with highly versatile recipes for improving and expanding
+things with the new PHP 5 release. However, before we dive into that, in this chapter we will
+give you a simple overview of what PHP can do, what is new with PHP 5, and how you can
+apply these new concepts",Web development
+"Why Learn Java? Why not C or C++?
+• Java is the most widely taught programming language.
+• Java is more popular
+• Java is industrial strength used for large systems by large groups of people
+• If you know Java learning C++ is easy.
+Java is an enormous language. There are over 3700 different classes included in the Java 6 Standard
+Edition. We could not begin to scratch the surface of these classes even if we devoted all 2700
+minutes of class time that we have in a semester. However Java is very powerful and we will write
+some very powerful programs this semester.",Programming
+"What makes Ajax unique? Ajax
+It works as a stand-alone Web-development tool.
+It works the same with all Web browsers.
+It uses C++ as its programming language.
+It makes data requests asynchronously.",Web development
+"jQuery is a fast and concise JavaScript Library created by John Resig in 2006 with a nice
+motto: Write less, do more. jQuery simplifies HTML document traversing, event handling,
+animating, and Ajax interactions for rapid web development. jQuery is a JavaScript toolkit
+designed to simplify various tasks by writing less code. Here is the list of important core
+features supported by jQuery:
+ DOM manipulation: The jQuery made it easy to select DOM elements, negotiate them
+and modifying their content by using cross-browser open source selector engine called
+Sizzle.
+ Event handling: The jQuery offers an elegant way to capture a wide variety of events,
+such as a user clicking on a link, without the need to clutter the HTML code itself with
+event handlers.
+ AJAX Support: The jQuery helps you a lot to develop a responsive and feature-rich
+site using AJAX technology.
+ Animations: The jQuery comes with plenty of built-in animation effects which you can
+use in your websites.",Web development
+"AJAX, one of the hottest technology combinations to enter the Web development landscape 
+in years, has fueled a surge in interactive Web design with 
+its ability to load new content into an existing DOM structure.
+jQuery simplifies using AJAX with several shorthand methods 
+for the basic AJAX methods. For most developers and designers, 
+these shorthand methods will be all that they ever need to use. 
+The jQuery AJAX shorthand methods post, get, and load are 
+featured in this chapter. jQuery also provides a robust feature set, 
+including callbacks, for developers who want to customize their 
+AJAX calls to provide richer interactive experiences. I’ll show you 
+how to use several of jQuery’s AJAX features to enhance Web sites 
+and applications. Let’s start by completing the form validation 
+that you started in Chapter",Web development
+"JavaScript Meets HTML with the DOM
+Although this discussion is about JavaScript and its evolution, it’s the DOM (which has evolved
+immensely from its early days) that takes center stage in the browser. Netscape, back in version 2 when JavaScript was invented, enabled you to access form and image elements. When
+IE version 3 was released, it mimicked how Netscape did things to compete and not have
+pages appear broken.
+As the version 4 browsers were released, both browsers tried to expand their capabilities
+by enabling ways to interact with more of the page; in particular, to position and move elements around the page. Each browser approached things in different and proprietary ways,
+causing plenty of headaches.
+The W3C developed its first DOM recommendation as a way to standardize the
+approach that all browsers took, making it easier for developers to create functionality that
+worked across all browsers—just like the HTML recommendations. The W3C DOM offered
+the hope of interactivity with the full HTML (and XML) documents with the capability to add
+and remove elements via JavaScript. The DOM Level 1 recommendation is fairly well supported across Mozilla and IE 5+. 
+The W3C has subsequently come out with versions 2 and 3 of the DOM recommendations, which continue to build on the functionality defined in level 1. (Differences between the
+DOM versions are covered in Chapter 2.)",Web development
+"JavaScript frameworks have arisen as necessary and useful companions for client-side web development. Without JavaScript frameworks, client-side programming becomes a crater-filled minefield of cross-browser, cross-platform inconsistencies and idiosyncrasies. JavaScript frameworks pave over those craters and inconsistencies to create a seamless, enjoyable client-side programming experience. The most important hole filled by a JavaScript framework is inconsistencies between Internet Explorer’s and the W3C’s standard Event APIs. jQuery fills in this hole by making a cross-browser Event API that is very similar to the W3C’s, adding some original helpful extensions of its own. Another hole filled by most of the popular client-side JavaScript frameworks is the ability to select and traverse through nodes in the Document Object Model (DOM) using more than the very remedial selection and traversal APIs that are provided by browsers’ default DOM implementations. jQuery provides a selection mechanism that uses selector syntax like that used in cascading style sheets. However, not content to support only the standard selectors supported in CSS and even the new Selectors API implementations supported by WebKit and Internet Explorer 8, jQuery again extends the standard to support new, innovative, and useful selectors that make sense when using selectors to select DOM nodes. In a nutshell, jQuery reduces significantly the amount of JavaScript programming and Q/A (quality assurance) you have to undertake. It takes what might take several lines of code to write, and more often than not reduces that to just one or a few lines of code. jQuery makes your JavaScript more intuitive and easier to understand. jQuery takes JavaScript programming (which at one time had a higher barrier of entry due to complexity and cross-browser, cross-platform idiosyncrasies) and makes it easier and more attractive to average web developers",Web development
+"What Does jQuery Do for Me?
+jQuery makes many tasks easier. Its simplistic, comprehensive API has the ability to completely change 
+the way you write JavaScript, with the aim of consolidating and eliminating as many common and 
+redundant tasks as possible. jQuery really shines in the following areas:
+jQuery makes iterating and traversing the DOM much easier via its various built-in methods for 
+doing the same.
+jQuery makes selecting items from the DOM easier via its sophisticated, built-in ability to use 
+selectors, just like you would use in CSS.
+jQuery makes it really easy to add your own custom methods via its simple-to-understand 
+plug-in architecture. 
+jQuery helps reduce redundancy in navigation and UI functionality, like tabs, CSS and markup based pop-up dialogues, animations, and transitions, and lots of other things.",Web development
+"JavaScript is now part of an overall development methodology, which means that you develop it not to interfere 
+with other technologies like HTML or CSS, but to interact with them or complement them.
+Web development has come quite a way since the 1990s, and there is not much sense in creating web sites that 
+are static and fixed in size. Any modern web design should allow for growth as needed. It should also be accessible to 
+everyone (which does not mean that everybody gets the same appearance—a nice multicolumn layout, for example, 
+might make sense on a high-resolution monitor but is hard to use on a mobile phone or a tablet)—and ready for 
+internationalization. You cannot afford any longer to build something and think it’ll last forever. Because the Web is 
+about content and change, it’ll become obsolete if we don’t upgrade our web products constantly and allow other 
+data sources to feed into it or get information from it",Web development
+"Once we’ve got the set of wrapped elements that we either identified by using a 
+selector to match existing DOM elements or created as new elements using HTML
+snippets (or a combination of both), we’re ready to manipulate those elements 
+using the powerful set of jQuery commands. We’ll start looking at those commands in the next chapter; but what if we’re not quite ready yet? What if we want 
+to further refine the set of elements wrapped by the jQuery function?
+ In this section, we’ll explore the many ways that we can refine, extend, or subset the set of wrapped elements that we wish to operate upon.",Web development
+"Laravel is an MVC framework with bundles, migrations, and Artisan CLI. Laravel offers a robust 
+set of tools and an application architecture that incorporates many of the best features of 
+frameworks like CodeIgniter, Yii, ASP.NET MVC, Ruby on Rails, Sinatra, and others.
+Laravel is an Open Source framework. It has a very rich set of features which will boost the 
+speed of Web Development. If you familiar with Core PHP and Advanced PHP, Laravel will 
+make your task easier. It will save a lot time if you are planning to develop a website from 
+scratch. Not only that, the website built in Laravel is also secure. It prevents the various 
+attacks that can take place on websites.
+Laravel–Features
+Laravel offers the following key features:
+Modularity
+Testability
+Routing
+Configuration management
+Query builder and ORM (Object Relational Mapper)
+Schema builder, migrations, and seeding
+Template engine
+E-mailing
+Authentication
+Redis
+Queues
+Event and command bus",Web development
+"Assembly language is a low-level programming language for a computer, or other 
+programmable device specific to a particular computer architecture in contrast to most highlevel programming languages, which are generally portable across multiple systems. 
+Assembly language is converted into executable machine code by a utility program referred to 
+as an assembler like NASM, MASM etc",Assembly Language
+"Assembly Language Programming as a Board Game
+Now that you're thinking in terms of board games, take a look at Figure 0.2. What I've 
+drawn is actually a fair approximation of assembly language as it was used on some of 
+our simpler microprocessors about ten or twelve years ago. The PROGRAM 
+INSTRUCTIONS column is the main path around the edge of the board, of which only a 
+portion can be shown here. This is the assembly language computer program, the actual 
+series of steps and tests that, when executed, causes the computer to do something useful. 
+Setting up this series of program instructions is what programming in assembly language 
+actually is.
+Everything else is odds and ends in the middle of the board that serve the game in 
+progress",Assembly Language
+"The Central Processing Unit6
+ (CPU) is typically referred to as the “brains” of the
+computer since that is where the actual calculations are performed. The CPU is housed
+in a single chip, sometimes called a processor, chip, or die7
+. The cover image shows one
+such CPU.
+The CPU chip includes a number of functional units, including the Arithmetic Logic
+Unit8
+ (ALU) which is the part of the chip that actually performs the arithmetic and
+logical calculations. In order to support the ALU, processor registers9
+ and cache10
+memory are also included “on the die” (term for inside the chip). The CPU registers and
+cache memory are described in subsequent sections.
+It should be noted that the internal design of a modern processor is quite complex. This
+section provides a very simplified, high-level view of some key functional units within a
+CPU. Refer to the footnotes or additional references for more information",Assembly Language
+"Modern X86 Assembly Language Programming
+Modern X86 Assembly Language Programming is an edifying text on the subject of x86 
+assembly language programming. Its primary purpose is to teach you how to code 
+functions using x86 assembly language that can be invoked from a high-level language. 
+The book includes informative material that explains the internal architecture of an x86 
+processor as viewed from the perspective of an application program. It also contains 
+an abundance of sample code that is structured to help you quickly understand x86 
+assembly language programming and the computational resources of the x86 platform",Assembly Language
+"Thus far, you’ve seen a couple of HLA programs that will actually compile 
+and run. However, all the statements appearing in programs to this point 
+have been either data declarations or calls to HLA Standard Library routines. 
+There hasn’t been any real assembly language. Before we can progress any 
+further and learn some real assembly language, a detour is necessary; unless 
+you understand the basic structure of the Intel 80x86 CPU family, the 
+machine instructions will make little sense. 
+The Intel CPU family is generally classified as a Von Neumann Architecture 
+Machine. Von Neumann computer systems contain three main building blocks: 
+the central processing unit (CPU), memory, and input/output (I/0) devices. These 
+three components are interconnected using the system bus (consisting of the 
+address, data, and control buses). The block diagram in Figure 1-4 shows this 
+relationship. 
+The CPU communicates with memory and I/O devices by placing a 
+numeric value on the address bus to select one of the memory locations or 
+I/O device port locations, each of which has a unique binary numeric address. 
+Then the CPU, memory, and I/O devices pass data among themselves by 
+placing the data on the data bus. The control bus contains signals that 
+determine the direction of the data transfer (to/from memory and to/from 
+an I/O device)",Assembly Language
+"In a high level language (HLL), one line of code 
+usually translates to 2, 3 or more machine 
+instructions 
+Some statements may translate to hundreds or thousands of 
+machine instructions
+In Assembly Language (AL), one line of code 
+translates to one machine instruction 
+AL is a ""human readable"" form of machine language
+HLLs are designed to be ""machine-independent""
+But machine dependencies are almost impossible to eliminate
+ALs are NOT machine-independent
+Each different machine (processor) has a different machine 
+language
+Any particular machine can have more than one assembly 
+language",Assembly Language
+"C was initially used for system development work, in particular the programs that make up 
+the operating system. C was adopted as a system development language because it 
+produces code that runs nearly as fast as code written in assembly language. Some 
+examples of the use of C might be:
+Operating Systems
+Language Compilers
+Assemblers
+Text Editors
+Print Spoolers
+Network Drivers
+Modern Programs
+Databases
+Language Interpreters
+Utilities",Programming
+"eb development is generally messy business.You have to contend with browser incompatibilities, rogue bots, bandwidth and server limitations,and an overall architecture that
+seems to defy thorough testing.
+Of course, we believe our book is an excellent introduction to the basics of Django,
+but we also aim to address many of those messy spots—the 20 percent of your work that
+can take 80 percent of your time.We’ve worked with, listened to,and helped many developers using Django and have kept their questions and challenges in mind while writing
+this book.
+If we didn’t think that Django and Python were great, we wouldn’t have gone to the
+trouble of writing a whole book about them. But when there are limitations you should
+know about or sharp edges you should watch out for, we’ll tell you. Our goal is to help
+you get things don",Web development
+"Django’s History
+Before we dive into more code, we should take a moment to explain Django’s history. It’s helpful to
+understand why the framework was created, because a knowledge of the history will put into context why
+Django works the way it does.
+If you’ve been building Web applications for a while, you’re probably familiar with the problems in the CGI
+example we presented earlier. The classic Web developer’s path goes something like this:
+Write a Web application from scratch.
+Write another Web application from scratch.
+Realize the application from step 1 shares much in common with the application from step 2.
+Refactor the code so that application 1 shares code with application 2.
+Repeat steps 2-4 several times.",Web development
+"Data visualization makes it easier and faster to make meaningful analysis on the
+data. In many cases it’s one of the first steps when performing a data analysis.
+You access and process the data and then start visualizing it for quick insights",Data science
+"First, Supervised Learning is a lot similar to learning from examples. For
+instance, we have a huge collection of images correctly labeled as either dogs or
+cats. Our computer will then learn from those given examples and correct labels.
+Perhaps our computer will find patterns and similarities among those images.
+And finally when we introduce new images, our computer and model will
+successfully identify an image whether there’s a dog or cat in it.
+It’s a lot like learning with supervision. There are correct answers (e.g. cats or
+dogs) and it’s the job of our model to align itself so on new data it can still
+produce correct answers (in an acceptable performance level because it’s hard to
+reach 100%).
+For example, Linear Regression is considered under Supervised Learning.
+Remember that in linear regression we’re trying to predict the value of y for a
+given x. But first, we have to find patterns and “fit” a line that best describes the
+relationship between x and y (and predict y values for new x inputs).",machine learning
+"In contrast, Unsupervised Learning means there’s no supervision or guidance.
+It’s often thought of as having no correct answers, just acceptable ones.
+For example, in Clustering (this falls under Unsupervised Learning) we’re trying
+to discover where data points aggregate (e.g. are there natural clusters?). Each
+data point is not labeled anything so our model and computer won’t be learning
+from examples. Instead, our computer is learning to identify patterns without any
+external guidance.
+This seems to be the essence of true Artificial Intelligence wherein the computer
+can learn without human intervention. It’s about learning from the data itself and
+trying to find the relationship between different inputs (notice there’s no
+expected output here in contrast to Regression and Classification discussed
+earlier). The focus is on inputs and trying to find the patterns and relationships
+among them. Perhaps there are natural clusters or there are clear associations
+among the inputs. It’s also possible that there’s no useful relationship at all.",Machine learning
+"Simple Linear Regression
+Here we’ll be dealing with one independent variable and one dependent. Later
+on we’ll be dealing with multiple variables and show how can they be used to
+predict the target (similar to what we talked about predicting something based on
+several features/attributes)",machine learning
+" Classification
+Spam or not spam? This is one of the most popular uses and examples of
+Classification. Just like Regression, Classification is also under Supervised
+Learning. Our model learns from labelled data (“with supervision”). Then, our
+system applies that learning to new dataset.
+For example, we have a dataset with different email messages and each one was
+labelled either Spam or Not Spam. Our model might then find patterns or
+commonalities among email messages that are marked Spam. When performing
+a prediction, our model might try to find those patterns and commonalities in
+new email messages.
+There are different approaches in doing successful Classification. Let’s discuss a
+few of them:
+Logistic Regression
+In many Classification tasks, the goal is to determine whether it’s 0 or 1 using
+two independent variables. For example, given that the Age and Estimated
+Salary determine an outcome such as when the person purchased or not, how can
+we successfully create a model that shows their relationships and use that for
+prediction",machine learning
+"K-Nearest Neighbors
+Notice that Logistic Regression seems to have a linear boundary between 0s and
+1s. As a result, it misses a few of the data points that should have been on the
+other side.
+Thankfully, there are non-linear models that can capture more data points in a
+more accurate manner. One of them is through the use of K-Nearest Neighbors.
+It works by having a “new data point” and then counting how many neighbors
+belong to either category. If more neighbors belong to category A than category
+B, then the new point should belong to category A.",machine learning
+"Decision Tree Classification
+As with Regression, many data scientists also implement Decision Trees in
+Classification. As mentioned in the previous chapter, creating a decision tree is
+about breaking down a dataset into smaller and smaller subsets while branching
+them out (creating an associated decision tree).",machine learning
+"Taxonomy of machine learning 
+algorithms
+The purpose of machine learning is to teach computers to execute tasks without 
+human intervention. An increasing number of applications such as genomics, social 
+networking, advertising, or risk analysis generate a very large amount of data that 
+can be analyzed or mined to extract knowledge or provide insight into a process, 
+a customer, or an organization. Ultimately, machine learning algorithms consist 
+of identifying and validating models to optimize a performance criterion using 
+historical, present, and future data",machine learning
+"Clustering
+The purpose of data clustering is to partition a collection of data into a number of 
+clusters or data segments. Practically, a clustering algorithm is used to organize 
+observations into clusters by minimizing the observations within a cluster and 
+maximizing the observations between clusters. A clustering algorithm consists 
+of the following steps:
+1. Creating a model by making an assumption on the input data.
+2. Selecting the objective function or goal of the clustering.
+3. Evaluating one or more algorithms to optimize the objective function.
+Data clustering is also known as data segmentation or data partitioning",machine learning
+"Dimension reduction
+Dimension reduction techniques aim at finding the smallest but most relevant set 
+of features that models dataset reliability. There are many reasons for reducing the 
+number of features or parameters in a model, from avoiding overfitting to reducing 
+computation costs.
+There are many ways to classify the different techniques used to extract knowledge 
+from data using unsupervised learning. The following taxonomy breaks down these 
+techniques according to their purpose, although the list is far for being exhaustive, as 
+shown in the following diagram:",machine learning
+"Rogue certificates are valid certificates issued by a legitimate certificate authority (CA) that are nonetheless
+untrustworthy; yet trusted by web browsers and users. With the current public key infrastructure, there
+exists a window of vulnerability between the time a rogue certificate is issued and when it is detected. Rogue
+certificates from recent compromises have been trusted for as long as weeks before detection and revocation.
+Previous proposals to close this window of vulnerability require changes in the infrastructure, Internet
+protocols, or end user experience. We present a method for detecting rogue certificates from trusted CAs
+developed from a large and timely collection of certificates. This method automates classification by building
+machine-learning models with Deep Neural Networks (DNN). Despite the scarcity of rogue instances in
+the dataset, DNN produced a classification method that is proven both in simulation and in the July 2014
+compromise of the India CCA. We report the details of the classification method and illustrate that it is
+repeatable, such as with datasets obtained from crawling. We describe the classification performance under
+our current research deployment",deep learning
+"This book is an advanced book on React but we wanted to provide a primer on the 
+basics so that this book could be both comprehensive and accessible. We will not 
+spend a lot of time on all of the subtleties of each technique that we will look at here. 
+We will instead look at concise samples that illustrate the tools and techniques that 
+we are covering. We will also have links to where you can easily access and run the 
+code samples as you follow along.
+In this chapter, we will be covering the following concepts:
+About the code samples
+Hello World sample in React
+JSX
+props
+state",Web development
+"For the examples in this book, we'll use a particular programming language,
+called Python. I chose Python for several reasons. It's a language that's in
+common use today for producing many different kinds of software. It's
+available for most computers that you're likely to use. And it's a clean and
+well-designed language: for the most part, the way you express things in Python
+is straightforward, with a minimum of extraneous words and punctuation. I
+think you're going to enjoy using Python",Programming
+"SQLite3 can be integrated with Python using sqlite3 module, which was written by Gerhard 
+Haring. It provides an SQL interface compliant with the DB-API 2.0 specification described 
+by PEP 249. You do not need to install this module separately because it is shipped by 
+default along with Python version 2.5.x onwards.
+To use sqlite3 module, you must first create a connection object that represents the 
+database and then optionally you can create a cursor object, which will help you in 
+executing all the SQL statements.
+Python sqlite3 module APIs
+Following are important sqlite3 module routines, which can suffice your requirement to 
+work with SQLite database from your Python program. If you are looking for a more 
+sophisticated application, then you can look into Python sqlite3 module's official 
+documentation",Web development
+"Sometime you want to know how a Django ORM makes our queries execute or what is the corresponding SQL of the
+code you are writing. This is very strightforward. Youn can get str of any queryset.query to get the sql.
+You have a model called Event. For getting all records, you will write something like Event.objects.all(),
+then do str(queryset.query)",Web development
+"In this chapter, I will show you good practices when starting a new project with Django 1.6 
+on Python 2.7. Some of the tricks introduced here are the best ways to deal with the project 
+layout, settings, or configuration. However, for some of the tricks, you might find some 
+alternatives online. So, feel free to evaluate and choose the best bits and pieces for yourself 
+while digging deep into the Django world.
+I am assuming that you are already familiar with the basics of Django, Subversion or Git 
+version control, MySQL or PostgreSQL databases, and command-line usage. Also, I assume 
+you are probably using a Unix-based operating system such as Mac OS X or Linux. It makes 
+sense to develop with Django on Unix-based platforms because the websites will most likely 
+be published on a Linux Server later, so you can establish routines that work the same while 
+developing as while deploying. If you are working with Django locally on Windows, the routines 
+are similar, but not always exactly the same",Web development
+"This chapter describes the fundamental characteristics of the objectoriented C++ programming language. In addition, you will be introduced
+to the steps necessary for creating a fully functional C++ program.The
+examples provided will help you retrace these steps and also
+demonstrate the basic structure of a C++ program.",Programming
+"What is Django?
+Django is a free open-source web framework, written in Python, which follows the model-view-template(MVT)
+architectural pattern. It is maintained by Django Software Foundation(DSF). Django’s primary goal is to ease
+the creation of complex, database-driven websites.
+Django is a high-level Python Web framework that encourages rapid development and clean, pragmatic design.
+Built by experienced developers, it takes care of much of the hassle of Web development, so you can focus on
+writing your app without needing to reinvent the wheel.",Web development
